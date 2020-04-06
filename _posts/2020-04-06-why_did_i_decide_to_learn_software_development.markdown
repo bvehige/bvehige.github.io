@@ -5,7 +5,7 @@ date:       2020-04-06 19:16:23 -0400
 permalink:  why_did_i_decide_to_learn_software_development
 ---
 
-![](https://drive.google.com/drive/folders/1ww3XeCc5GnbZfBkYauS-Hcwnk3NA-LEX)
+![](https://www.thoughtco.com/thmb/cOECLHtgMsKx3Z-7rHWaYAvgSGY=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-5237067761-58f41c2e3df78cd3fc6151fc.jpg)
 
 I wish I could provide a compelling or fascinating story that leads to my decision to begin learning software development.  Of course, there are all the obvious reasons to pursue software development as a career.  It's an "in demand" skill set that has and continues to change the world around us.  It also seems clear that software will only become more ubiquitous in our lives in the future with more and more items having some kind of software built into them.  However, the fact is none of that is my primary motivation.   I'm probably a little older than the average software development student.  As a result, I've had the opportunity to work in multiple fields and in a variety of positions so far in my life.  While some of my work experiences have been interesting and rewarding I have often found myself feeling capable and desiring more of a challenge. 
 
