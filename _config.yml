@@ -1,11 +1,11 @@
 # Site settings
 author: Brian Vehige
-title: 
+title: Brian's Coding Adventure
 header-img: img/home-bg.png
 email: brianvehige@gmail.com
 copyright_name: Brian Vehige
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Follow along as Brian navigates through a coding world.  
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bvehige
